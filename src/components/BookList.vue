@@ -15,7 +15,7 @@ export default {
       title: "All Books",
       books: [
         { title: "Dune", author: "Frank Herbert" },
-        { title: "Mort", author: "Terry Pratchet" },
+        { title: "American Gods", author: "Neil Gaiman" },
         { title: "The Magicians", author: "Lev Grossman" },
         { title: "14", author: "Peter Clines" }
       ]
